@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Padariya</h1>
 <h3 align="center">A passionate in machine learning and medical imaging.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M5cGJ0MXptOXR2c2ZwZm1ibWV3dWhtbW5oYXAwdml6bzk2aGZ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpadaraiya&label=Profile%20views&color=0e75b6&style=flat" alt="karanpadaraiya" /> </p>
 
@@ -16,6 +15,8 @@
 - 💬 Ask me **How to start with ML?**
 
 - 📫 How to reach me **karanpadariya96@gmail.com**
+- <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M5cGJ0MXptOXR2c2ZwZm1ibWV3dWhtbW5oYXAwdml6bzk2aGZ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
