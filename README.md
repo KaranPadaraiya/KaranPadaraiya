@@ -14,7 +14,15 @@
 
 - 📫 Reach me at karanpadariya96@gmail.com
   
-- 🎯 Have a look at my [projects](https://github.com/KaranPadaraiya/KaranPadaraiya).
+- 🎯 Have a look at my projects.
+  - [Disease detection in leaves of apple and grapes](https://github.com/KaranPadaraiya/Disease-detection-in-leaves-of-apple-and-grapes)
+  - [Disease detection from apple](https://github.com/KaranPadaraiya/Disease-detection-from-apple)
+  - [Custem-Object-Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection)
+  - [Real-time-Ojbect-Detection-YOLO](https://github.com/KaranPadaraiya/Ojbect-Detection)
+  - [Pharma-stock-price-predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction)
+  - [Bolckage-detection-in-coronary-artery-using image Processing](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart)
+  - [CASBloDaM IEEE Transection on medical imaging](https://github.com/KaranPadaraiya/Blockage_Detection)
+    
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M5cGJ0MXptOXR2c2ZwZm1ibWV3dWhtbW5oYXAwdml6bzk2aGZ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif">
 
 
