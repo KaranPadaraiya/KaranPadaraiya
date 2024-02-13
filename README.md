@@ -14,7 +14,7 @@
 
 - 💬 Ask me **How to start with ML?**
 
-- 📫 How to reach [me](mailto:karanpadariya96@gmail.com)
+- 📫 Reach me at karanpadariya96@gmail.com
   
 - 🎯 Have a look at my [projects](https://github.com/KaranPadaraiya/KaranPadaraiya).
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M5cGJ0MXptOXR2c2ZwZm1ibWV3dWhtbW5oYXAwdml6bzk2aGZ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif">
