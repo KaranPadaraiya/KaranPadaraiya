@@ -12,8 +12,6 @@
 
 - 📝 I regularly write articles on my previous projects [Medium](https://medium.com/@karanpadariya96)
 
-- 💬 Ask me **How to start with ML?**
-
 - 📫 Reach me at karanpadariya96@gmail.com
   
 - 🎯 Have a look at my [projects](https://github.com/KaranPadaraiya/KaranPadaraiya).
