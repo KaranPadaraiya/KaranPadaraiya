@@ -16,7 +16,7 @@
   
 - 🎯 Have a look at my projects.
   - [Disease detection from apple](https://github.com/KaranPadaraiya/Disease-detection-from-apple?tab=readme-ov-file#disease-detection-in-apple-using-image-processing-techniques)
-  - [Custem-Object-Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection)
+  - [Custem-Object-Detection]([https://github.com/KaranPadaraiya/Custem-Object-Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection#welcome-to-the-model-garden-for-tensorflow)
   - [Real-time-Ojbect-Detection-YOLO](https://github.com/KaranPadaraiya/Ojbect-Detection)
   - [Pharma-stock-price-predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/tree/master#readme)
   - [Bolckage-detection-in-coronary-artery-using image Processing](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart)
