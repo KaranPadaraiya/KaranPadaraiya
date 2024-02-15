@@ -15,7 +15,7 @@
 - 📫 Reach me at karanpadariya96@gmail.com
   
 - 🎯 Have a look at my projects.
-  - [Disease detection from apple](https://github.com/KaranPadaraiya/Disease-detection-from-apple)
+  - [Disease detection from apple](https://github.com/KaranPadaraiya/Disease-detection-from-apple?tab=readme-ov-file#)
   - [Custem-Object-Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection)
   - [Real-time-Ojbect-Detection-YOLO](https://github.com/KaranPadaraiya/Ojbect-Detection)
   - [Pharma-stock-price-predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/tree/master#readme)
