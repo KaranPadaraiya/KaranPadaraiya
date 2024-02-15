@@ -15,7 +15,6 @@
 - 📫 Reach me at karanpadariya96@gmail.com
   
 - 🎯 Have a look at my projects.
-  - [Disease detection in leaves of apple and grapes](https://github.com/KaranPadaraiya/Disease-detection-in-leaves-of-apple-and-grapes)
   - [Disease detection from apple](https://github.com/KaranPadaraiya/Disease-detection-from-apple)
   - [Custem-Object-Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection)
   - [Real-time-Ojbect-Detection-YOLO](https://github.com/KaranPadaraiya/Ojbect-Detection)
