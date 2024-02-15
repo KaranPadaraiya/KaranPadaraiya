@@ -18,7 +18,7 @@
   - [Disease detection from apple](https://github.com/KaranPadaraiya/Disease-detection-from-apple)
   - [Custem-Object-Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection)
   - [Real-time-Ojbect-Detection-YOLO](https://github.com/KaranPadaraiya/Ojbect-Detection)
-  - [Pharma-stock-price-predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction)
+  - [Pharma-stock-price-predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/tree/master#readme)
   - [Bolckage-detection-in-coronary-artery-using image Processing](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart)
   - [CASBloDaM IEEE Transection on medical imaging](https://github.com/KaranPadaraiya/Blockage_Detection)
     
