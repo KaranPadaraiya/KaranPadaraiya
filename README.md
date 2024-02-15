@@ -19,7 +19,7 @@
   - [Custem-Object-Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection#welcome-to-the-model-garden-for-tensorflow)
   - [Real-time-Ojbect-Detection-YOLO](https://github.com/KaranPadaraiya/Real-time-Ojbect-Detection-YOLO?tab=readme-ov-file#yolov3-person-detection-for-traffic-monitoring)
   - [Pharma-stock-price-predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/tree/master#readme)
-  - [Bolckage-detection-in-coronary-artery-using image Processing](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart)
+  - [Bolckage-detection-in-coronary-artery-using image Processing](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-with-image-processing?tab=readme-ov-file#blockage-detection-in-coronary-artery-with-image-processing)
   - [CASBloDaM IEEE Transection on medical imaging](https://github.com/KaranPadaraiya/Blockage_Detection)
     
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M5cGJ0MXptOXR2c2ZwZm1ibWV3dWhtbW5oYXAwdml6bzk2aGZ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif">
