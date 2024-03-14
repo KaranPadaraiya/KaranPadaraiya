@@ -15,7 +15,7 @@
 - 📫 Reach me at karanpadariya96@gmail.com
   
 - 🎯 Have a look at my projects.
-  - [Disease detection from apple](https://github.com/KaranPadaraiya/Disease-detection-from-apple?tab=readme-ov-file#disease-detection-in-apple-using-image-processing-techniques)
+  - [Diseased apple detection](https://github.com/KaranPadaraiya/Disease-detection-from-apple?tab=readme-ov-file#disease-detection-in-apple-using-image-processing-techniques)
   - [Custem Object Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection#welcome-to-the-model-garden-for-tensorflow)
   - [Real-time Ojbect Detection YOLO](https://github.com/KaranPadaraiya/Real-time-Ojbect-Detection-YOLO?tab=readme-ov-file#yolov3-person-detection-for-traffic-monitoring)
   - [Pharma stock price predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/tree/master#readme)
