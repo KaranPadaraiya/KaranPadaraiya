@@ -6,9 +6,9 @@
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpadaraiya" alt="karanpadaraiya" /></a> </p>-->
 
-- 🔭 I’m currently working on [Blockage detection in coronary arteris 🫀](https://github.com/KaranPadaraiya/Blockage_Detection)
+- 🔭 I’m currently working on [Blockage detection in coronary arteris](https://github.com/KaranPadaraiya/Blockage_Detection)
 
-- 🌱 I’m currently learning **Fundaments of Machine learning**
+- 🌱 I’m currently exploring **Implementation of Deep Learning**
 
 - 📝 I regularly write articles on my previous projects [Medium](https://medium.com/@karanpadariya96)
 
