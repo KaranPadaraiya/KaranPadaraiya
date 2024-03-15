@@ -15,7 +15,7 @@
 - 📫 Reach me at karanpadariya96@gmail.com
   
 - 🎯 Have a look at my projects.
-  - [CASBloDaM IEEE Transection on medical imaging](https://github.com/KaranPadaraiya/Blockage_Detection)
+  - [CASBloDaM IEEE Transection on medical imaging(under review)](https://github.com/KaranPadaraiya/Blockage_Detection)
   - [Bolckage detection in coronary artery using image Processing](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-with-image-processing?tab=readme-ov-file#blockage-detection-in-coronary-artery-with-image-processing)
   - [Pharma stock price predction](https://github.com/KaranPadaraiya/Pharma-stock-price-predction/tree/master#readme)
   - [Custem Object Detection](https://github.com/KaranPadaraiya/Custem-Object-Detection#welcome-to-the-model-garden-for-tensorflow)
